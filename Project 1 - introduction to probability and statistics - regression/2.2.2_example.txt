@@ -1,0 +1,15 @@
+Region	x	y
+Maine	1.8	104
+New Hampshire	1.2	68
+Vermont	0.4	39
+Massachusetts	0.5	43
+Connecticut	2.5	127
+Rhode Island	2.5	134
+New York	1.5	87
+New Jersey	1.2	77
+Pennsylvania	1.6	102
+Delaware	1.0	65
+Maryland	1.5	101
+West Virginia	0.7	46
+Virginia	1.0	52
+Ohio	0.8	33
